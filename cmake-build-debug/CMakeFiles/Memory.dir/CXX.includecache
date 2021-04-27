@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jeremy/Code/Memory/memory.c++
+iostream
+-
+mach/mach.h
+-
+string
+-
+math.h
+-
+sstream
+-
+iomanip
+-
+
