@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jeremy/Downloads/memory-measure-master/memory.c++
+iostream
+-
+mach/mach.h
+-
+string
+-
+math.h
+-
+sstream
+-
+iomanip
+-
+
